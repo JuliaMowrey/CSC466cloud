@@ -1,3 +1,4 @@
+
 #!/bin/bash
 set -x
 sudo yum -y group install "Development Tools"

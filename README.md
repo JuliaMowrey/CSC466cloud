@@ -1,15 +1,22 @@
 # CSC466cloud Lab-1:
 
-Typology View:
+TYPOLOGY VIEW: SCREENSHOT 1
 
-List View:
+<img width="665" alt="Typology" src="https://user-images.githubusercontent.com/60298256/101021831-6e515300-353e-11eb-9b60-399330a044ed.png">
 
-Compiled and Run hello.c:
+LIST VIEW: SCREENSHOT 2
 
-Compile and run 4 other MPI programs-
-  evenodd.c and reduce.c:
+<img width="886" alt="List-View" src="https://user-images.githubusercontent.com/60298256/101021455-ef5c1a80-353d-11eb-844d-eb9e97e99d64.png">
+
+HELLO.C:SCREENSHOT 3
+
+<img width="580" alt="Hello.c" src="https://user-images.githubusercontent.com/60298256/101021433-eb2ffd00-353d-11eb-80e7-ac333170ae7e.png">
+
+4 OTHER MPI-PROGRAMS
+  EVENODD.C and REDUCE.C:SCREENSHOT 4 & 5
   
-  scatter.c:
+<img width="665" alt="evenodd.cAndReduce.c" src="https://user-images.githubusercontent.com/60298256/101021610-1dd9f580-353e-11eb-8501-18d658d17542.png">
   
-  gather.c:
-
+  SCATTER.C:SCREENSHOT 6
+  
+  GATHER.C:SCREENSHOT 7
